@@ -133,7 +133,7 @@ class ChatInterface(Frame):
         tkinter.messagebox.showinfo("AIBOT v1.01",'AIBOT is a chatbot for answering python queries\nIt is based on retrival-based NLP using pythons NLTK tool-kit module\nGUI is based on Tkinter\nIt can answer questions regarding python language for new learners')
 
     def about(self):
-        tkinter.messagebox.showinfo("PyBOT Developers","1.Peter Enemali\n2.Kehinde\n3.Adukwu Reuben\n4.Mr Tunji")
+        tkinter.messagebox.showinfo("PyBOT Developers","Fasasi Abdulrahman Temitope(aka RAMOND KING)")
     
     def send_message_insert(self, message):
         user_input = self.entry_field.get()
