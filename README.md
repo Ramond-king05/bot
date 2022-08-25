@@ -2,4 +2,5 @@
 
 Screenshot of pybot with hacker theme
 
-![img](r"C:\Users\user\Pictures\Screenshots\Screenshot (8).png")
+![img](https://github.com/Ramond-king05/bot/blob/master/Screenshot%20(8).png)
+
